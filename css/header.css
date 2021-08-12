@@ -1,0 +1,46 @@
+*
+        {
+            margin:0px;
+            padding:0px;
+        }
+
+        .menu
+        {
+            height:40px;
+            float:left;
+            width:15%;
+            text-align:center;
+            background-color: white;
+        }
+        .menu p{
+            line-height:40px;
+        }
+        .menu img
+        {
+            max-width:100px;
+            height:40px;
+        }
+
+.header_1{
+    background-color:blue;
+    margin-left: 30%;
+}
+a {
+    /*background-color: powderblue;*/
+    transition: background-color .5s;
+  }
+  
+  a:hover {
+    background-color: gold;
+  }
+
+  .baner_header{
+      margin-top: 3%;
+    background-color: black ;
+    height: 200px;
+}
+
+.text_header{
+    color : white;
+    text-align: center;
+}
